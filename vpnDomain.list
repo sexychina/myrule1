@@ -7,3 +7,5 @@ DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,pkg.dev
 DOMAIN-SUFFIX,quay.io
 DOMAIN-SUFFIX,k8s.gcr.io
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.com
