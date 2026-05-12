@@ -1,2 +1,9 @@
 DOMAIN-SUFFIX,crunchyroll.com
 DOMAIN-SUFFIX,66img.cc
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,pkg.dev
+DOMAIN-SUFFIX,quay.io
+DOMAIN-SUFFIX,k8s.gcr.io
